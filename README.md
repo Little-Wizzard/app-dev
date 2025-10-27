@@ -17,4 +17,3 @@ My first repository
 [Titanic] (https://www.imdb.com/title/tt0120338/?ref_=nv_sr_srsg_0_tt_6_nm_2_in_0_q_Tita)
 [Maze Runner Franchise] (https://www.imdb.com/title/tt1790864/?ref_=nv_sr_srsg_0_tt_7_nm_1_in_0_q_Maze)
 
-
